@@ -1,0 +1,14 @@
+[
+
+
+
+
+  {"home": [
+    {"e": "layout", "src": "src"},
+    {"e": "label"}
+  ]},
+  {"access": [
+    {"e": "image", "src": "src"},
+    {"e": "label"}
+  ]}
+]

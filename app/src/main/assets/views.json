@@ -1,0 +1,37 @@
+[
+
+
+
+{
+  "home": [
+    {
+      "e": "layout",
+      "src": "src"
+    },
+    {
+      "e": "label"
+    }
+  ]
+},
+  {
+    "access": {
+      "LinearLayout": {
+        "padding": 20,
+        "childs": [
+          {
+            "label": {
+              "layout": "Xy",
+              "font-size": 35,
+              "padding": 10
+            }
+          },
+          {
+            "image": {
+              "src": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+]
